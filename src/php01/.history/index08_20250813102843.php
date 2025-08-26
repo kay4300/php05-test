@@ -1,0 +1,25 @@
+<!-- 配列 -->
+<?php
+$people = array('taro', 'jiro', 'saburo');
+var_dump($people);
+echo $people[0];
+echo "<br />";
+echo $people[2];
+?>
+
+<?php
+$pople = array(
+    'person1' => 'taro',
+    'people2' => 'jiro',
+    'people3' => 'saburo',
+);
+var_dump($people);
+echo $people[1];
+?>
+
+<?php
+$people = [
+    'person1' => 'taro',
+    'person2' => 'jiro'.
+];
+echo $people['person1']

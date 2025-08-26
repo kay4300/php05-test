@@ -1,0 +1,23 @@
+.result_content {
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+}
+
+.result {
+    text-align: center;
+}
+
+.result_text--correct {
+    color: #ff0000;
+}
+
+.result_text--incorrect {
+    color: #0000ff;
+}
+
+.answer-table {
+    border: 1px solid #ddd;
+}
+
+.answer-table_inner 

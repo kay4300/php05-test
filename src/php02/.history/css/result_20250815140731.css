@@ -1,0 +1,14 @@
+.result_content {
+    margin: o auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+}
+
+.result-cards {
+    display: flex;
+    justify-content: center;
+}
+
+.result-card {
+    margin: 0 ;
+}

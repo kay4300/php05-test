@@ -1,0 +1,5 @@
+<!-- 配列 -->
+ <?php
+ $people = array('taro','jiro', 'saburo' );
+ var_dump($people);
+ ?>
